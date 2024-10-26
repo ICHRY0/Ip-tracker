@@ -1,4 +1,4 @@
-![IP Address Tracker](https://github.com/catherineisonline/ip-address-tracker-frontendmentor/blob/main/images/project-preview.png?raw=true)
+)
 
 
 <h1 align="center">IP Address Tracker</h1>
@@ -9,7 +9,7 @@
 | [Solution](https://www.frontendmentor.io/solutions/ip-address-tracker-02_5ChONI)
 | [Challenge](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
 
-Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
+
 
 </div>
 
@@ -44,7 +44,7 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 - Leaflet (map API)
 
 ## What I learned
-This is my very first project on Frontend Mentor using API. I decided to spend more time on it from now on. I already have a project using API which was my very first experience, you can check it [here](https://github.com/catherineisonline/covid19-awareness) I decided not to spend too much time and effort on the design as my main goal here is practicing API.
+This is my very first project on Frontend Mentor using API. I decided to spend more time on it from now on. I already have a project using API which was my very first experience, you can check it [ I decided not to spend too much time and effort on the design as my main goal here is practicing API.
 
 # Important Update
 
@@ -62,4 +62,4 @@ For some reason the gitignore is havin'g issues so I decided to keep the API key
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/ip-address-tracker-02_5ChONI). It definitely helps to find new ways to code and find easier solutions! 
+A big thank you to anyone 
